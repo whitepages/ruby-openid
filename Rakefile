@@ -5,9 +5,9 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = 'nov-ruby-openid'
-    gem.author = 'JanRain, Inc'
-    gem.email = 'openid@janrain.com'
-    gem.homepage = 'http://openidenabled.com/ruby-openid/'
+    gem.author = 'nov matake'
+    gem.email = 'nov@matake.jp'
+    gem.homepage = 'http://github.com/nov/ruby-openid/'
     gem.summary = 'A library for consuming and serving OpenID identities.'
     gem.extra_rdoc_files = ["LICENSE", "README", "INSTALL","UPGRADE","CHANGELOG", "CHANGES-2.1.0", "UPGRADE"]
     gem.files.exclude "admin","_darcs","coverage",".gitignore","gemspec"
